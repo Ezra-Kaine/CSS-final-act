@@ -1,0 +1,31 @@
+.Fixed{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    border: 3px solid red;
+    background-color: limegreen;
+    left: 0px;
+    text-decoration: underline;
+    text-align: center;
+}
+.static{
+width: 500px;
+background-color: blue;
+border: 5px solid limegreen;
+text-align: center;
+}
+h1{
+    text-align: center;
+}
+.bottle{
+    width: 250px;
+background-color:gold;
+border: 5px solid orangered;
+}
+.hi{
+    padding-left: 250px;
+}
+.phd{
+    background-color: red;
+    border: 10px solid black;
+}
